@@ -1,0 +1,23 @@
+body {background-color: lightblue;
+
+}
+
+h1{font-family:Helvetica;
+}
+
+h3{font-family:Arial;
+
+}
+p{font-family:Arial;
+    color: black;
+}
+a{color: black;
+    text-decoration: none;
+}
+a:hover{color: blue;
+        text-decoration: underline;
+}
+
+ul{font-family: arial;
+
+}
