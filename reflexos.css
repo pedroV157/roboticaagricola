@@ -1,0 +1,20 @@
+body{
+    background-color: lightblue;
+}
+p{
+    color: black;
+    font-family: Arial;
+    font-size: 25px;
+    left: auto;
+}
+h3{
+    color: black;
+    font-family: Arial;
+    font-size: 30px;
+    left: auto;
+}
+#tripe{
+    display: block;
+    margin-left: 300px;
+    margin-right: 300px;
+}
